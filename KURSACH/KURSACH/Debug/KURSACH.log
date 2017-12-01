@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  saver_registers.cpp
+  registers.cpp
+  byte.cpp
+  Создание кода...
+c:\users\red_ragnar\source\repos\lehakursach\lehakursach\registers.cpp(13): warning C4715: registers::return_byte: значение возвращается не при всех путях выполнения
+c:\users\red_ragnar\source\repos\lehakursach\lehakursach\saver_registers.cpp(25): warning C4715: saver_registers::return_reg_by_string: значение возвращается не при всех путях выполнения
+c:\users\red_ragnar\source\repos\lehakursach\lehakursach\saver_registers.cpp(20): warning C4715: saver_registers::return_by_string: значение возвращается не при всех путях выполнения
+c:\users\red_ragnar\source\repos\lehakursach\lehakursach\saver_registers.cpp(64): warning C4715: saver_registers::cmp: значение возвращается не при всех путях выполнения
+  LehaKURSACH.vcxproj -> C:\Users\Red_Ragnar\source\repos\LehaKURSACH\Debug\LehaKURSACH.exe
